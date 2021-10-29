@@ -1,1 +1,2 @@
-# Hello-World-in-C-
+# Hello-World-in-C++-
+here is the code and how it works
